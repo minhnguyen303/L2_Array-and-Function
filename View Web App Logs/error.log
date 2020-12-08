@@ -1,0 +1,5 @@
+[Wed Dec 09 00:01:03.335954 2020] [mpm_prefork:notice] [pid 853] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 09 00:01:03.336000 2020] [core:notice] [pid 853] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 09 00:24:14.424671 2020] [mpm_prefork:notice] [pid 853] AH00169: caught SIGTERM, shutting down
+[Wed Dec 09 06:15:46.677728 2020] [mpm_prefork:notice] [pid 851] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 09 06:15:46.696036 2020] [core:notice] [pid 851] AH00094: Command line: '/usr/sbin/apache2'
