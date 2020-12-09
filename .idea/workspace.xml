@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f6a6fa-bc9f-4085-9fed-c4b2315fbf17" name="Default Changelist" comment="">
+    <list default="true" id="c0f6a6fa-bc9f-4085-9fed-c4b2315fbf17" name="Default Changelist" comment="Upload bai tap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notification Input Wrong/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Notification Input Wrong/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Register Page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Register Page/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +41,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lLicJgHrrY9xLdGf0o6ulJdQgW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,8 +77,19 @@
       <workItem from="1607415454710" duration="2910000" />
       <workItem from="1607419441572" duration="45000" />
       <workItem from="1607442365797" duration="3192000" />
-      <workItem from="1607469697140" duration="1297000" />
+      <workItem from="1607469697140" duration="2576000" />
+      <workItem from="1607476814400" duration="229000" />
+      <workItem from="1607480974478" duration="4842000" />
+      <workItem from="1607502890905" duration="4896000" />
     </task>
+    <task id="LOCAL-00001" summary="Upload bai tap">
+      <created>1607471278619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607471278619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +105,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Upload bai tap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload bai tap" />
   </component>
 </project>

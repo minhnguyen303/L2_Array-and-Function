@@ -9,10 +9,14 @@
 </head>
 <body>
 <form action="" method="post">
-    <input type="text" name="name"><br>
-    <input type="email" name="email"><br>
-    <input type="number" name="phone"><br>
-    <input type="submit">
+    <fieldset>
+        <legend>Register</legend>
+        <input type="text" name="name"><br>
+        <input type="email" name="email"><br>
+        <input type="number" name="phone"><br>
+        <input type="submit">
+    </fieldset>
+
 </form>
 </body>
 </html>
@@ -30,7 +34,6 @@ function saveDataJSON($filename, $name, $email, $phone)
         echo "Đăng ký thành công!";
     } catch (Exception $exception) {
         echo "Lỗi: " . $exception->getMessage();
-
     }
 }
 
